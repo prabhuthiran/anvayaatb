@@ -8,3 +8,6 @@ build/
 
 .flutter-plugins
 .idea/
+ios/GoogleService-Info.plist
+android/google-services.json
+android/app/google-services.json

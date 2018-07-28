@@ -10,13 +10,17 @@ description: Hackathon project for Trash to Treasure concept
 version: 1.0.0+1
 
 dependencies:
-  cloud_firestore:
   flutter:
     sdk: flutter
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
+
+  # Firebase
+  cloud_firestore: ^0.7.4
+  cloud_functions: ^0.0.2
+  firebase_core: ^0.2.5
 
 dev_dependencies:
   flutter_test:
