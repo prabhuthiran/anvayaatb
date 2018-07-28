@@ -10,6 +10,7 @@ description: Hackathon project for Trash to Treasure concept
 version: 1.0.0+1
 
 dependencies:
+  cloud_firestore:
   flutter:
     sdk: flutter
 
