@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "301924939818",
+    "firebase_url": "https://anvayahackathon01.firebaseio.com",
+    "project_id": "anvayahackathon01",
+    "storage_bucket": "anvayahackathon01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301924939818:android:3af5c16468e215a9",
+        "android_client_info": {
+          "package_name": "com.thirantech.anvayahackathon01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301924939818-4qsg4hv0f689kvjtel414t0tmetb8sja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1brqCHzeFIC1NalRlMW-QVFuY-SQyMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
